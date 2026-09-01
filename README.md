@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm ston - linux user and packager. I'm developing gadgets and my own projects that help me use linux. Currently in collage.
+I'm ston — Linux user and packager. I'm developing gadgets and my own projects that help me use Linux. Currently working at [Uniontech](https://www.uniontech.com).
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,lua,java,rust,go,c,cs,bash,html,js&perline=5)](https://skillicons.dev)
